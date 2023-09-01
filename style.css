@@ -23,6 +23,13 @@
     padding-bottom: 24px;
     padding-top: 12px;
   }
+  .protection li{
+    font-size: 18px;
+  }
+  .protection h3{
+    font-size: 22px;
+    font-weight: 700;
+  }
 
 @media screen and (max-width: 768px) {
     .termsTitle{
